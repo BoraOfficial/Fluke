@@ -8,4 +8,6 @@ py fluke.py [URL] [USERNAMES FILE] [PASSWORDS FILE]
 ```
 
 ### Example:<br>
-```py fluke.py https://example.com/login usernames.txt passwords.txt```
+```
+py fluke.py https://example.com/login usernames.txt passwords.txt
+```
