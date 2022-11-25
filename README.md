@@ -13,4 +13,4 @@ py fluke.py https://example.com/login usernames.txt passwords.txt
 ```
 
 #### DISCLAIMER:
-<a href="https://github.com/BoraOfficial/">Ɪ</a> take no responsibility or liability in any damage caused by the use of this script.
+I take no responsibility or liability in any damage caused by the use of this script.
