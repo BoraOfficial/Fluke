@@ -57,7 +57,7 @@ correct_password = []
 
 url = args.url[0] 
 
-os.system("color 0a && cls")
+os.system("color 0a && cls") # cosmetic-only code. also probably ruins cross-platform usage :P
 print(banner)
 while i < len(username_list):
     if correct_username == []:
